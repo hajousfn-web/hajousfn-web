@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hello, I'm Soufiane Hajou 👋
 
-<!--
-**hajousfn-web/hajousfn-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Industrial Maintenance Technician | Edge AI Developer | Industry 4.0**
 
-Here are some ideas to get you started:
+I bridge the gap between heavy industrial systems and modern AI solutions. My work focuses on retrofitting industrial infrastructure with LiDAR-based sensing and Edge AI to optimize safety and maintenance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠 **Core Skills:** Industrial Maintenance, Electrical Systems, Python, LiDAR Sensing, TinyML.
+- 🚀 **Featured Project:** [Sentinel-Edge-Core](https://github.com/hajousfn-web/Sentinel-Edge-Core) - An autonomous industrial Edge AI kernel.
+- 🎯 **Current Focus:** Building "Zero-Cloud" safety ecosystems for the Industry 4.0 era.
+- 💬 **Ask me about:** Predictive Maintenance, Robotics, and IoT/Edge integration.
+
+---
+*Always open to professional networking and technical discussions.*
+[LinkedIn Profile](https://www.linkedin.com/in/soufiane-hajou/)
